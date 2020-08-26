@@ -1,0 +1,13 @@
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.csprojAssemblyReference.cache
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.AssemblyInfoInputs.cache
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.AssemblyInfo.cs
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.csproj.CoreCompileInputs.cache
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.exe
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.deps.json
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.runtimeconfig.json
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.runtimeconfig.dev.json
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.dll
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\bin\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.pdb
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.dll
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.pdb
+C:\Users\vgess\Documents\estudo-c--tdd-selenium-nunit\obj\Debug\netcoreapp3.1\estudo-c--tdd-selenium-nunit.genruntimeconfig.cache
