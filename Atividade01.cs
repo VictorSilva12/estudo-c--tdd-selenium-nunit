@@ -20,10 +20,10 @@ namespace estudo_c__tdd_selenium_nunit
             a = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite o segundo numero: ");
             b = int.Parse(Console.ReadLine());
-            Console.WriteLine("2 + 2 = "+Somar(a, b));
-            Console.WriteLine("2 - 2 = "+Subtrair(a, b));
-            Console.WriteLine("2 * 2 = "+Multiplicar(a, b));
-            Console.WriteLine("2 / 2 = "+Dividir(a, b));
+            Console.WriteLine(a+" + "+b+" = "+Somar(a, b));
+            Console.WriteLine(a+" - "+b+" = "+Subtrair(a, b));
+            Console.WriteLine(a+" * "+b+" = "+Multiplicar(a, b));
+            Console.WriteLine(a+" / "+b+" = "+Dividir(a, b));
         }
         public int Somar(int a, int b){
             return a + b;//soma os 2 valores e retorna o resultado
