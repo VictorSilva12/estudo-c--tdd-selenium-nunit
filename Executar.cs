@@ -10,13 +10,19 @@ namespace estudo_c__tdd_selenium_nunit
             //Variaveis estudoVariaveis = new Variaveis();
             //EntradaDados estudoEntradaDados = new EntradaDados();
             //ConvertendoValores estudoConvercaoValores = new ConvertendoValores();
-            Atividade01 atividade1 = new Atividade01();
+            //Atividade01 atividade1 = new Atividade01();
+            EstruturasRepeticao estudoRepeticao = new EstruturasRepeticao();
+
             //estudoVariaveis.ImprimeVariaveis();
             //estudoConstantes.ImprimeConstante();
             //estudoEntradaDados.imprimeDados();
             //estudoConvercaoValores.imprimeValores();
-            atividade1.Exercicio1();
-            atividade1.Exercicio2();
+            //atividade1.Exercicio1();
+            //atividade1.Exercicio2();
+            estudoRepeticao.EstudoForeach();
+            estudoRepeticao.EstudoFor();
+            estudoRepeticao.EstudoWhile();
+
         }
     }
 }
