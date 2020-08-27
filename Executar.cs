@@ -29,6 +29,11 @@ namespace estudo_c__tdd_selenium_nunit
             //estudoVetSwitch.ImprimeVetor();
             //estudoString.EstudoMetodoString();
             estudoOpMath.OpsMatematica();
+            Pessoa p = new Pessoa("Victor", 25);
+            p.Rua = "Rua ruas";
+            p.Numero = 000;
+            p.Bairro = "Bairros";
+            Console.WriteLine("nome: "+p.Nome+"\n"+"idade: "+p.Idade+"\n"+"rua: "+p.Rua+"\n"+"numero: "+p.Numero+"\n"+"bairro: "+p.Bairro);
 
         }
     }
