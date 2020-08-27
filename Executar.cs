@@ -13,7 +13,9 @@ namespace estudo_c__tdd_selenium_nunit
             //Atividade01 atividade1 = new Atividade01();
             //EstruturasRepeticao estudoRepeticao = new EstruturasRepeticao();
             //Matriz estudoMatriz = new Matriz();
-            VetorSwitch estudoVetSwitch = new VetorSwitch();
+            //VetorSwitch estudoVetSwitch = new VetorSwitch();
+            //MetodosString estudoString = new MetodosString();
+            OperacoesMatematicas estudoOpMath = new OperacoesMatematicas();
             //estudoVariaveis.ImprimeVariaveis();
             //estudoConstantes.ImprimeConstante();
             //estudoEntradaDados.imprimeDados();
@@ -24,7 +26,9 @@ namespace estudo_c__tdd_selenium_nunit
             //estudoRepeticao.EstudoFor();
             //estudoRepeticao.EstudoWhile();
             //estudoMatriz.ImprimeMatriz();
-            estudoVetSwitch.ImprimeVetor();
+            //estudoVetSwitch.ImprimeVetor();
+            //estudoString.EstudoMetodoString();
+            estudoOpMath.OpsMatematica();
 
         }
     }
