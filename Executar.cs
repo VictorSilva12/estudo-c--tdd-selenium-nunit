@@ -16,7 +16,8 @@ namespace estudo_c__tdd_selenium_nunit
             //VetorSwitch estudoVetSwitch = new VetorSwitch();
             //MetodosString estudoString = new MetodosString();
             //OperacoesMatematicas estudoOpMath = new OperacoesMatematicas();
-            LeituraEscritaArquivo estudoLeituraEscrita = new LeituraEscritaArquivo();
+            //LeituraEscritaArquivo estudoLeituraEscrita = new LeituraEscritaArquivo();
+            Atividade02 atividade2 = new Atividade02();
             //estudoVariaveis.ImprimeVariaveis();
             //estudoConstantes.ImprimeConstante();
             //estudoEntradaDados.imprimeDados();
@@ -36,7 +37,8 @@ namespace estudo_c__tdd_selenium_nunit
             //p.Bairro = "Bairros";
             //Console.WriteLine("nome: "+p.Nome+"\n"+"idade: "+p.Idade+"\n"+"rua: "+p.Rua+"\n"+"numero: "+p.Numero+"\n"+"bairro: "+p.Bairro);
             //estudoLeituraEscrita.EscreveDados();
-            estudoLeituraEscrita.LerArquivo();
+            //estudoLeituraEscrita.LerArquivo();
+            atividade2.CadCli();
         }
     }
 }
