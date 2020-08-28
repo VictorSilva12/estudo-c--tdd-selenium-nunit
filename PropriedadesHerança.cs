@@ -9,6 +9,12 @@ namespace estudo_c__tdd_selenium_nunit
             this.nome = nome;
             this.idade = idade;
         }
+        
+        ~Pessoa(){
+            //destrutor, sempre executa ao final da utlização de uma classe
+            //exemplo de utilização: ao terminar uma conexão com o banco de dados
+            Console.WriteLine("Finaliza classe");
+        }
         public string Nome { get => nome; set => nome = value; }
         public int Idade { get => idade; set => idade = value; }
     }
